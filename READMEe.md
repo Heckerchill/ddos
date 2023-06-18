@@ -1,3 +1,7 @@
-$sudo apt upgrade
-$sudo apt install git 
-$git clone https://github.com/Heckerchill/ddos
+1$sudo apt upgrade
+
+
+2$sudo apt install git 
+
+
+3$git clone https://github.com/Heckerchill/ddos
